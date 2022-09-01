@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "title": "lol",
+      "author": "moi",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
