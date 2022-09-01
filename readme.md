@@ -2,7 +2,7 @@
 
 ## Documentation
 
-### Preparation
+### Utilisation
 - Lancer [json serveur](https://www.npmjs.com/package/json-server)
 - Ouvrir index.html dans le navigateur
 - Faire appel aux differentes fonctions dans la console
